@@ -20,13 +20,13 @@
 
 ## 📁 프로젝트 구조
 
-student-grade-management-system/n
-├── main.c/n
-├── student.c/n
-├── grade.c/n
-├── data/n
-│ └── students.txt/n
-├── ppt/n
+student-grade-management-system/
+├── main.c
+├── student.c
+├── grade.c
+├── data/
+│ └── students.txt
+├── ppt
 │ └── 발표자료.pptx
 
 
